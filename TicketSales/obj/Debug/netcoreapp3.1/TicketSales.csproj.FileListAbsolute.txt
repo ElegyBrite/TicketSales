@@ -1,0 +1,36 @@
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.exe
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.deps.json
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.runtimeconfig.json
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.runtimeconfig.dev.json
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.dll
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.pdb
+C:\Users\Greg\source\repos\TicketSales\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.ResolveComReference.cache
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.MainForm.resources
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.StartForm.resources
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.GenerateResource.cache
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.AssemblyInfoInputs.cache
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.AssemblyInfo.cs
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.dll
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.pdb
+C:\Users\Greg\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.genruntimeconfig.cache
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.exe
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.deps.json
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.runtimeconfig.json
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.runtimeconfig.dev.json
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.dll
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\TicketSales.pdb
+C:\Users\LGJ Consulting\source\repos\TicketSales\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.ResolveComReference.cache
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.MainForm.resources
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.StartForm.resources
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.GenerateResource.cache
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.AssemblyInfoInputs.cache
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.AssemblyInfo.cs
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.csproj.CoreCompileInputs.cache
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.dll
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.pdb
+C:\Users\LGJ Consulting\source\repos\TicketSales\obj\Debug\netcoreapp3.1\TicketSales.genruntimeconfig.cache
